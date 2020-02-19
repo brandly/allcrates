@@ -1,6 +1,6 @@
 # allcrates
 
-Generate a dependency graph for every Rust crate to be [viewed in `pm`](https://github.com/anvaka/pm).
+Generate a dependency graph for [every Rust crate](https://crates.io/) to be [viewed in `pm`](https://github.com/anvaka/pm).
 
 ## usage
 
