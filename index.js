@@ -1,6 +1,4 @@
-const fs = require('fs')
 const axios = require('axios')
-const mkdirp = require('mkdirp')
 const PromisePool = require('async-promise-pool')
 const createGraph = require('ngraph.graph')
 
